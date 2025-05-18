@@ -1,0 +1,41 @@
+h1 {
+    color: #2e8b57;          
+    text-decoration: underline;
+    text-align: center;
+}
+
+#container {
+    font-size: 20px;
+    font-weight: 600;
+    padding: 10px;
+}
+
+#football {
+    background-color: #f2d7d5;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#basketball {
+    background-color: #d5f4e6;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#tennis {
+    background-color: cornflowerblue;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#cricket {
+    background-color: #fcf3cf;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#swimming {
+    background-color: aquamarine;
+    padding: 10px;
+    margin-bottom: 10px;
+}
