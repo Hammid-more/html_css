@@ -1,0 +1,54 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+}
+
+.profile-info h1 {
+    font-size: larger;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(38, 97, 97);
+    text-decoration: underline;
+    background-color: cadetblue;
+    line-height: 5;
+    font-style: inherit;
+
+}
+
+.profile-info h2 {
+    color: black;
+    font-size: large;
+    letter-spacing: normal;
+    margin-bottom: auto;
+    padding: 10px;
+}
+
+.profile-info p {
+    font-style: oblique;
+    color: darkblue;
+    font-size: medium;
+    padding: 10px;
+    line-height: 
+    
+}
+
+.profile-info h3 {
+    font-size: large
+    color: rgb(15, 70, 141);
+    padding: 20px;
+}
+
+.skills ul {
+    font-style: oblique;
+    color: darkgreen;
+    letter-spacing: normal;
+}
+
+#page-footer {
+    text-align: justify;
+    background-color: darkslategrey;
+    padding: 0;
+    line-height: 2;
+    color: black;
+}
